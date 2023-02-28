@@ -5,5 +5,5 @@ package sample;
  *
  */
 public class Bean {
-	// これはShift-JISのファイルです。
+	// これはShift-JISのファイルです。修正
 }
